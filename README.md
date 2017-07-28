@@ -1,4 +1,4 @@
-# Titanic Kaggle - Clustering
+# Fully Connected Neural Network - Numpy, Tensorflow and Keras
 
 The Kaggles mushrooms dataset classified with fully connected neural networks. The dataset is pretty simple and we can easily achieve 100% accuracy with most of models.
 
